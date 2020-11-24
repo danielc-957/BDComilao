@@ -28,3 +28,6 @@ Observacao: Para abrir o sql script para poder adicionar o banco ao workbench, Ã
 a abertura do arquivo por meio da aba file -> Open SQL Script ou efetuar a importacao do banco no local correspondente a importacoes.
 
 arquivo de abertura para o banco de dados ja populado: Trab_populado.sql
+
+
+Link gitHub com os arquivos informados: https://github.com/danielc-957/BDComilao
