@@ -25,6 +25,6 @@ Segue em anexo:
 
 
 Observacao: Para abrir o sql script para poder adicionar o banco ao workbench, é necessario que o sql server esteja conectado ao workbench e efetuar
-a abertura do arquivo por meio da aba file -> Open SQL Script ou efetuar a importacao do banco no local correspondente a importacoes
+a abertura do arquivo por meio da aba file -> Open SQL Script ou efetuar a importacao do banco no local correspondente a importacoes.
 
 arquivo de abertura para o banco de dados ja populado: Trab_populado.sql
